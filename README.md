@@ -17,4 +17,3 @@
 - **Discord: ySoft#0031;**
 - **Sobre Mim: Estudante e Iniciante na Progamação querendo aprender mais e mais sobre novas linguagens de progamação.;**
 
-![snake gif](https://github.com/yduduz/yduduz/blob/output/github-contribution-grid-snake.gif)
