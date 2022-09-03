@@ -14,5 +14,4 @@
 
 ## Outras Informações.
 - **Idade: 16y;**
-- **Discord: ySoft#0031;**
 
